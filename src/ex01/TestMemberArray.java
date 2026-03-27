@@ -1,8 +1,5 @@
 package ex01;
 
-import java.util.Iterator;
-import java.util.Objects;
-
 class Member {
 	// Field
 	private int num;
